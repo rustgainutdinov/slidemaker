@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/rustgainutdinov/slidemaker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/rustgainutdinov/testing_for_study" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/work/projects/payment_method" />
