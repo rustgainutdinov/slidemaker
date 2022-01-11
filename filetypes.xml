@@ -6,6 +6,7 @@
       <mapping pattern="hlp" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
