@@ -4,9 +4,9 @@
       <mapping pattern="instruction" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="hlp" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
